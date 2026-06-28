@@ -6,9 +6,9 @@ Este é um sistema integrado para gestão de chamadas escolares utilizando tecno
 
 A aplicação é composta por:
 
-- **Frontend em Blazor**: Interface amigável e interativa para o controle de presença, cadastro de alunos e visualização de relatórios.
-- **Backend em NestJS**: Responsável pela lógica de negócios, autenticação e comunicação com o sistema de reconhecimento facial.
-- **Reconhecimento Facial em Python**: Utiliza bibliotecas como OpenCV e dlib para identificar alunos e registrar suas presenças automaticamente.
+- **Frontend em Blazor**: Interface amigável e interativa para o controle de presença, cadastro de alunos e visualização de relatórios https://github.com/Artses/Projeto-Chamada-FRONT.
+- **Backend em NestJS**: Responsável pela lógica de negócios, autenticação e comunicação com o sistema de reconhecimento facial https://github.com/Artses/Projeto-Chamada-API.
+- **Reconhecimento Facial em Python**: Utiliza bibliotecas como OpenCV e dlib para identificar alunos e registrar suas presenças automaticamente https://github.com/senamiguel/BFP-facerecognition.git.
 
 ## Funcionalidades Principais
 
